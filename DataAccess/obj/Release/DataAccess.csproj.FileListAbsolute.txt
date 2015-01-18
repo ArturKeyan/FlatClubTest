@@ -1,0 +1,14 @@
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\DataAccess.dll.config
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\DataAccess.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\Entity.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\EntityFramework.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\Entity.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\EntityFramework.xml
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\obj\Release\DataAccess.Migrations.AddUserStoryGroupTables.resources
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\obj\Release\DataAccess.csproj.GenerateResource.Cache
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\obj\Release\DataAccess.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\DataAccess\obj\Release\DataAccess.pdb

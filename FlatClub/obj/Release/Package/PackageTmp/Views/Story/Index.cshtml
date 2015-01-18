@@ -1,0 +1,22 @@
+﻿@model IEnumerable<FlatClub.Models.StoryVModel>
+
+@{
+    ViewBag.Title = "Stories";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">
+            @Html.ActionLink("Create new Story", "Create")
+        </h3>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+
+<div class="row">
+    @{
+        Html.RenderPartial("_StoryList", Model);
+    }
+</div>
+<!-- /.row -->

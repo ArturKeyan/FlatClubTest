@@ -1,0 +1,86 @@
+﻿@model FlatClub.Models.StoryDetailsVModel
+
+@{
+    ViewBag.Title = "Details of the Story";
+}
+
+<div class="row">
+    <div class="col-lg-6 col-md-offset-3">
+        <h3 class="page-header">
+            Details of the Story <b>ID @Model.Id</b> 
+        </h3>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+
+
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-md-offset-3">
+        <fieldset>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Title
+                </div>
+                <div class="panel-body">
+                    @Model.Title
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Description
+                </div>
+                <div class="panel-body">
+                    @Model.Description
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Content
+                </div>
+                <div class="panel-body">
+                    @Model.Content
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    PostedOn
+                </div>
+                <div class="panel-body">
+                    @Model.PostedOn
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Creator
+                </div>
+                <div class="panel-body">
+                    @Model.Creator.Name
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Groups
+                </div>
+                <div class="panel-body">
+                    @String.Join(", ", @Model.Groups.Select(m => m.Name))
+                </div>
+            </div>
+
+            <p>
+                <div class="row">
+                    <div class="col-xs-1, col-lg-12">
+                        <a href="@Url.Action("Index", "Story")" class="btn btn-lg btn-primary">Stories List</a>
+                        <a href="@Url.Action("Edit", "Story", new  { id = Model.Id })" class="btn btn-lg btn-success pull-right">Edit</a>
+                    </div>
+                </div>
+            </p>
+        </fieldset>
+    </div>
+</div>
+

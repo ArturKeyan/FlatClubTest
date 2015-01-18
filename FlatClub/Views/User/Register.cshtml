@@ -1,0 +1,33 @@
+﻿@model FlatClub.Models.RegisterVModel
+
+@{
+    Layout = "/Views/Shared/_BlankLayout.cshtml";
+    ViewBag.Title = "Register";
+    ViewBag.PanelTitle = "Please Sign Up";
+}
+
+@using (Html.BeginForm()) {
+    
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <div class="form-group">
+            @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", placeholder = "Username" })
+            @Html.ValidationMessageFor(model => model.UserName)
+        </div>
+
+        <div class="form-group">
+            @Html.PasswordFor(model => model.Password, new { @class = "form-control", placeholder = "Password" })
+            @Html.ValidationMessageFor(model => model.Password)
+        </div>
+
+        <div class="form-group">
+            @Html.PasswordFor(model => model.ConfirmPassword, new { @class = "form-control", placeholder = "Confirm Password" })
+            @Html.ValidationMessageFor(model => model.ConfirmPassword)
+        </div>
+
+        <p>
+            <input class="btn btn-lg btn-success btn-block" type="submit" value="Sign Up" />
+        </p>
+    </fieldset>
+}

@@ -1,0 +1,9 @@
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\Entity.dll.config
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\Entity.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\Entity.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\EntityFramework.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\EntityFramework.xml
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\obj\Release\Entity.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Entity\obj\Release\Entity.pdb

@@ -1,0 +1,11 @@
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\Component.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\Component.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\DataAccess.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\Entity.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\EntityFramework.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\DataAccess.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\Entity.pdb
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\bin\Release\EntityFramework.xml
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\obj\Release\Component.csprojResolveAssemblyReference.cache
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\obj\Release\Component.dll
+C:\Users\artkeyan\Desktop\flatclub\FlatClub_3.0\FlatClub\Component\obj\Release\Component.pdb
